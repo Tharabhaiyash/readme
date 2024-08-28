@@ -7,12 +7,17 @@
 
 # Hi 👋 We are from the Developer side-
 
-A passionate Web Developer from India
+## About the Project
 
-- 🤖  Let's get you beyond **searching** and **scrolling** for a tour guide. 
-- 🤝  This  **Android projects**
-- 👨‍💻 All of my projects are available at [https://github.com/adarsh3699](https://github.com/adarsh3699)
-- 📧 How to reach me: **gauravpandey495@gmail.com**
+- 🌏 We're a team of passionate web developers from India who want to revolutionize the way you plan your **tours**.
+- 📚 We're building a platform that will help you discover new destinations, get detail **information**.
+- 👥Our mission is to make travel planning easier, more enjoyable, and accessible to **everyone**.
+- 😎We're committed to providing the best possible experience for our **users**.
+- 🤩We will always look for customer reviews that will be helpful to our community to find genuine **reviews**.
+- 📊We are using API's to fetch the the data and provide user the Accurate **data**.
+
+
+
 
 ## Connect with me:
 
