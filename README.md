@@ -24,24 +24,11 @@
 [![MongoDb](https://img.shields.io/badge/Mongo-02569B?style=flat-square&logo=flutter&logoColor=white)](https://www.mongodb.com/)
 
 
-## Most Used Languages
+## Languages progress stats 
 
-[![Dart](https://img.shields.io/badge/Dart-00B0FF?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/) 40.19%
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 23.76%
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/) 12.16%
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 12.02%
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 11.87%
+[![ReactJs](https://img.shields.io/badge/ReactJs-3776AB?style=flat-square&logo=python&logoColor=white)](https://react.dev/) 25%
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 13%
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 10%
+[![MongoDb](https://img.shields.io/badge/Mongo-02569B?style=flat-square&logo=flutter&logoColor=white)](https://www.mongodb.com/) 0%
 
-## gaurav pandey's GitHub Stats
 
-[![GitHub stars](https://img.shields.io/github/stars/gauravpandey22/your-repo?style=social)](https://github.com/gauravpandey22/your-repo)
-[![GitHub commits](https://img.shields.io/github/commit-activity/m/gauravpandey22/your-repo?style=social)](https://github.com/gauravpandey22/your-repo)
-[![GitHub PRs](https://img.shields.io/github/issues-pr-closed/gauravpandey22/your-repo?style=social)](https://github.com/gauravpandey22/your-repo)
-[![GitHub issues](https://img.shields.io/github/issues/gauravpandey22/your-repo?style=social)](https://github.com/gauravpandey22/your-repo)
-[![GitHub contributors](https://img.shields.io/github/contributors/gauravpandey22/your-repo?style=social)](https://github.com/gauravpandey22/your-repo)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravpandey22)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravpandey22)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravpandey22)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravpandey22)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravpandey22)
