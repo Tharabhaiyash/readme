@@ -1,9 +1,7 @@
 
 ### **Virtual Tour Guide**
 
-- ✈ Let's get you beyond *searching* and *scrolling* for a tour guide.
-
-
+- ✈Let's get you beyond those **Hussle** and **Crowds**.
 
 # Hi 👋 We are from the Developer side-
 
@@ -17,13 +15,6 @@
 - 📊We are using API's to fetch the the data and provide user the Accurate **data**.
 
 
-
-
-## Connect with me:
-
-[![Twitter](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/your_twitter_handle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_profile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=social&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle)
 
 ## Languages and Tools:
 
