@@ -18,17 +18,17 @@
 
 ## Languages and Tools:
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![ReactJs](https://img.shields.io/badge/ReactJs-3776AB?style=flat-square&logo=python&logoColor=white)](https://react.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MongoDb](https://img.shields.io/badge/Mongo-02569B?style=flat-square&logo=flutter&logoColor=white)](https://www.mongodb.com/)
+[![Gemini api](https://img.shields.io/badge/Gemini-02569B?style=flat-square&logo=flutter&logoColor=white)](https://gemini.google.com/app)
+
 
 
 ## Languages progress stats 
 
-[![ReactJs](https://img.shields.io/badge/ReactJs-3776AB?style=flat-square&logo=python&logoColor=white)](https://react.dev/) 25%
+[![ReactJs](https://img.shields.io/badge/ReactJs-3776AB?style=flat-square&logo=python&logoColor=white)](https://react.dev/) 50%
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 13%
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 10%
 [![MongoDb](https://img.shields.io/badge/Mongo-02569B?style=flat-square&logo=flutter&logoColor=white)](https://www.mongodb.com/) 0%
 
 
