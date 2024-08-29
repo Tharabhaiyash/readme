@@ -26,8 +26,8 @@
 
 ## Languages usage stats 
 
-[![ReactJs](https://img.shields.io/badge/ReactJs-3776AB?style=flat-square&logo=python&logoColor=white)](https://react.dev/) 50%
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 13%
+[![ReactJs](https://img.shields.io/badge/ReactJs-3776AB?style=flat-square&logo=python&logoColor=white)](https://react.dev/) 90%
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 10%
 [![MongoDb](https://img.shields.io/badge/Mongo-02569B?style=flat-square&logo=flutter&logoColor=white)](https://www.mongodb.com/) 0%
 
 
